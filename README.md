@@ -1,1 +1,1 @@
-This is a Repository to learn using git
+This is a Repository to learn using git. (In 10 minutes)
